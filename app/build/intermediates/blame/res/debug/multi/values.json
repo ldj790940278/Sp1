@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "E:\\Demo\\18_1SharedPreferences Example1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 34,
+                    "endOffset": 85
+                },
+                "from": {
+                    "file": "E:\\Demo\\18_1SharedPreferences Example1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 34,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 90,
+                    "endColumn": 57,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "E:\\Demo\\18_1SharedPreferences Example1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 57,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 60,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "E:\\Demo\\18_1SharedPreferences Example1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 60,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 35,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "E:\\Demo\\18_1SharedPreferences Example1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 35,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 35,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "E:\\Demo\\18_1SharedPreferences Example1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 35,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 40,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "E:\\Demo\\18_1SharedPreferences Example1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 40,
+                        "endOffset": 326
+                    }
+                }
+            }
+        ]
+    }
+]

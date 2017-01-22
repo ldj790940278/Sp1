@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Jan 17 16:24:31 CST 2017
+1.base=E\:\\Demo\\18_1SharedPreferences Example1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\Demo\\18_1SharedPreferences Example1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.base=E\:\\Demo\\18_1SharedPreferences Example1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=E\:\\Demo\\18_1SharedPreferences Example1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=4
+1.set=ANDROID_RESOURCE
+3.base=E\:\\Demo\\18_1SharedPreferences Example1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=E\:\\Demo\\18_1SharedPreferences Example1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\Demo\\18_1SharedPreferences Example1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.file=E\:\\Demo\\18_1SharedPreferences Example1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml

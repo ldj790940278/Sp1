@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age">年龄</string>
+    <string name="app_name">SharedPreferences的使用</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="name">姓名</string>
+    <string name="save">保存</string>
+    <string name="success">保存成功</string>
+</resources>
